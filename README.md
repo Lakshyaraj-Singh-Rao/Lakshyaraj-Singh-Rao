@@ -47,4 +47,4 @@
 
 ---
 
-<p align="center"><i>⭐ unsupervised learning | Next up: model deployment with Flask/Streamlit</i></p>
+<p align="center"><i>Next up: an end to end movie or music recommendation system</i></p>
