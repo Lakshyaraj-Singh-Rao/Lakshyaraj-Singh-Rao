@@ -17,6 +17,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Email Spam Detection**](https://github.com/Lakshyaraj-Singh-Rao/email-spam-detector) | Built a spam detection model using scikit-learn and NLP — to classify mail into SPAM and NOT SPAM | pandas, scikit-learn, joblib, streamlit|
 | [**Engineer Salary Prediction**](https://github.com/lakshyarajsinghrao403-beep/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
 | [**ResumeRank**](https://github.com/lakshyarajsinghrao403-beep/resumerank) | AI-powered resume screening web app that ranks candidates against a job description using weighted keyword matching. | Python, Flask, JavaScript |
 | [**Customer Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
