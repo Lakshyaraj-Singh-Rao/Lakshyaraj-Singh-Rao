@@ -23,9 +23,6 @@
 | [**Engineer Salary Prediction**](https://github.com/Lakshyaraj-Singh-Rao/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
 | [**Placement Prediction**](https://github.com/Lakshyaraj-Singh-Rao/placement-prediction-ML) | Built a machine learning model for placement prediction without using Scikit-learn | Numpy, Pandas |
 | [**Scikit-Learn Practice**](https://github.com/Lakshyaraj-Singh-Rao/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
-| [**ResumeRank**](https://github.com/Lakshyaraj-Singh-Rao/resumerank) | AI-powered resume screening web app that ranks candidates against a job description using weighted keyword matching. | Python, Flask, JavaScript |
-| [**Customer Data Analysis**](https://github.com/Lakshyaraj-Singh-Rao/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
-| [**IMDB Data Analysis**](https://github.com/Lakshyaraj-Singh-Rao/IMDB-data-analysis) | EDA on an IMDB movie dataset exploring ratings, genres, and trends. | Pandas, Matplotlib, Seaborn |
 
 ---
 
@@ -41,6 +38,23 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshyaraj-Singh-Rao&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyaraj-Singh-Rao&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lakshyaraj-Singh-Rao&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshyaraj-Singh-Rao&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
