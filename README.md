@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi+I'm+Lakshyaraj+Singh+Rao)
-<h3 align="center">Aspiring Machine Learning Engineer | Building in public, one project at a time</h3>
+<h3 align="center">Machine Learning Engineer | Building in public, one project at a time</h3>
 
 ---
 
