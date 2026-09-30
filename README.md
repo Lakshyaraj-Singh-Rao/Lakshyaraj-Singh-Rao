@@ -18,12 +18,13 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**Email Spam Detection**](https://github.com/Lakshyaraj-Singh-Rao/email-spam-detector) | Built a spam detection model using scikit-learn and NLP — to classify mail into SPAM and NOT SPAM | pandas, scikit-learn, joblib, streamlit|
-| [**Engineer Salary Prediction**](https://github.com/lakshyarajsinghrao403-beep/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
-| [**ResumeRank**](https://github.com/lakshyarajsinghrao403-beep/resumerank) | AI-powered resume screening web app that ranks candidates against a job description using weighted keyword matching. | Python, Flask, JavaScript |
-| [**Customer Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
-| [**IMDB Data Analysis**](https://github.com/lakshyarajsinghrao403-beep/IMDB-data-analysis) | EDA on an IMDB movie dataset exploring ratings, genres, and trends. | Pandas, Matplotlib, Seaborn |
-| [**Scikit-Learn Practice**](https://github.com/lakshyarajsinghrao403-beep/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
-| [**Placement Prediction**](https://github.com/lakshyarajsinghrao403-beep/placement-prediction-ML) | Built a machine learning model for placement prediction without using Scikit-learn | Numpy, Pandas |
+| [**Customer Churn Prediction**](https://github.com/Lakshyaraj-Singh-Rao/customer-churn-prediction) | built a customer churn prediction model with scikit-learn and XGboost. | Scikit-learn, XGboost |
+| [**Engineer Salary Prediction**](https://github.com/Lakshyaraj-Singh-Rao/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
+| [**Placement Prediction**](https://github.com/Lakshyaraj-Singh-Rao/placement-prediction-ML) | Built a machine learning model for placement prediction without using Scikit-learn | Numpy, Pandas |
+| [**Scikit-Learn Practice**](https://github.com/Lakshyaraj-Singh-Rao/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
+| [**ResumeRank**](https://github.com/Lakshyaraj-Singh-Rao/resumerank) | AI-powered resume screening web app that ranks candidates against a job description using weighted keyword matching. | Python, Flask, JavaScript |
+| [**Customer Data Analysis**](https://github.com/Lakshyaraj-Singh-Rao/customer_data_analysis) | End-to-end exploratory data analysis on a customer dataset — cleaning, visualization, and insight generation. | Pandas, Matplotlib, Seaborn |
+| [**IMDB Data Analysis**](https://github.com/Lakshyaraj-Singh-Rao/IMDB-data-analysis) | EDA on an IMDB movie dataset exploring ratings, genres, and trends. | Pandas, Matplotlib, Seaborn |
 
 ---
 
