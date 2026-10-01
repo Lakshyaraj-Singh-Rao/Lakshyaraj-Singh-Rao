@@ -76,3 +76,13 @@
 ---
 
 <p align="center"><i>Next up: an end to end movie or music recommendation system</i></p>
+
+---
+
+## 💭 Thought of the Day
+
+<!--QUOTE_START-->
+> "All models are wrong, but some are useful."
+>
+> — *George Box*
+<!--QUOTE_END-->
