@@ -82,5 +82,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-test
+> "All models are wrong, but some are useful."
+>
+> — *George Box*
 <!--QUOTE_END-->
