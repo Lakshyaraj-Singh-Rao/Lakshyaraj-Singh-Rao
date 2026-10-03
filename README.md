@@ -82,7 +82,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-> "Talk is cheap. Show me the code."
+> "Make it work, make it right, make it fast."
 >
-> — *Linus Torvalds*
+> — *Kent Beck*
 <!--QUOTE_END-->
