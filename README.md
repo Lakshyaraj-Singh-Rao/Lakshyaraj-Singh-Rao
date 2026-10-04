@@ -82,7 +82,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-> "Make it work, make it right, make it fast."
+> "The best way to predict the future is to invent it."
 >
-> — *Kent Beck*
+> — *Alan Kay*
 <!--QUOTE_END-->
