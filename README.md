@@ -94,8 +94,6 @@
 
 <br/><br/>
 
-⭐ <em>Follow along. Repo drops soon.</em>
-
 </div>
 
 ---
