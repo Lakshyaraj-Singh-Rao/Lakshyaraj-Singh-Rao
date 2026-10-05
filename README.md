@@ -33,7 +33,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
