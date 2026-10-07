@@ -100,7 +100,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-> "Simplicity is prerequisite for reliability."
+> "In the midst of movement and chaos, keep stillness inside of you."
 >
-> — *Edsger W. Dijkstra*
+> — *Deepak Chopra*
 <!--QUOTE_END-->
