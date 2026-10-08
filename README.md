@@ -100,7 +100,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-> "In the midst of movement and chaos, keep stillness inside of you."
+> "All models are wrong, but some are useful."
 >
-> — *Deepak Chopra*
+> — *George Box*
 <!--QUOTE_END-->
