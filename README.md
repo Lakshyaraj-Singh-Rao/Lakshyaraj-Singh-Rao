@@ -100,7 +100,7 @@
 ## 💭 Thought of the Day
 
 <!--QUOTE_START-->
-> "All models are wrong, but some are useful."
+> "Talk is cheap. Show me the code."
 >
-> — *George Box*
+> — *Linus Torvalds*
 <!--QUOTE_END-->
