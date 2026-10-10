@@ -78,20 +78,10 @@
 
 ## 🚀 Next Up
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PLANNING-F5A623?style=for-the-badge&labelColor=0d1117" alt="Status: In planning"/>
-
-### 🎬 End-to-End Movie / Music Recommendation System
-
-<sub>Collaborative filtering · Content-based filtering · Hybrid model · Deployed app</sub>
+###  learning neural network from scratch
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-<br/><br/>
 
 </div>
 
