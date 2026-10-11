@@ -6,7 +6,7 @@
 
 ### 🎯 About Me
 
-- 🌱 I'm currently building foundational skills in **Data Science & Machine Learning**
+- 🌱 I'm currently building skills in **Data Science & Machine Learning**
 - 💻 Comfortable with **Python, pandas, NumPy, Matplotlib/Seaborn**, and learning **scikit-learn**
 - 📊 Interests: classical ML, exploratory data analysis, and eventually MLOps & deployment
 - 📫 Open to **ML/Data Science internship** opportunities — always happy to connect and learn from others in the field
@@ -18,6 +18,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Movie recommendation system**](https://github.com/Lakshyaraj-Singh-Rao/Movie-recommendation-system) | Created a movie recommendation system using KNN and cosine similarity and deployed the project | Scikit-learn, pandas, seaborn,FastAPI |
 | [**Email Spam Detection**](https://github.com/Lakshyaraj-Singh-Rao/email-spam-detector) | Built a spam detection model using scikit-learn and NLP — to classify mail into SPAM and NOT SPAM | pandas, scikit-learn, joblib, streamlit|
 | [**Customer Churn Prediction**](https://github.com/Lakshyaraj-Singh-Rao/customer-churn-prediction) | built a customer churn prediction model with scikit-learn and XGboost. | Scikit-learn, XGboost |
 | [**Engineer Salary Prediction**](https://github.com/Lakshyaraj-Singh-Rao/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
