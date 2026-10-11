@@ -70,6 +70,7 @@
 ### 📫 Connect with Me
 
 <!-- Add your links below -->
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qsxJVdIUnFBY-USyIVuxR4kDKuXxwvqC/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshyaraj-singh-rao-515a61419)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyarajsinghrao2006@gmail.com)
 
