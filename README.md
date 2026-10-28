@@ -80,7 +80,7 @@
 
 ## 🚀 Next Up
 
-###  learning neural network from scratch
+###  learning neural network and deep learning
 
 <br/>
 
