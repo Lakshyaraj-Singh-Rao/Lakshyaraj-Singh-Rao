@@ -20,10 +20,10 @@
 |---|---|---|
 | [**Movie recommendation system**](https://github.com/Lakshyaraj-Singh-Rao/Movie-recommendation-system) | Created a movie recommendation system using KNN and cosine similarity and deployed the project | Scikit-learn, pandas, seaborn,FastAPI |
 | [**Email Spam Detection**](https://github.com/Lakshyaraj-Singh-Rao/email-spam-detector) | Built a spam detection model using scikit-learn and NLP — to classify mail into SPAM and NOT SPAM | pandas, scikit-learn, joblib, streamlit|
+| [**neural network from scratch**](https://github.com/Lakshyaraj-Singh-Rao/MNIST-neural-network) | Built a neural network from scratch for MNIST digit classification without using tensorflow or keras | Numpy, Pandas |
 | [**Customer Churn Prediction**](https://github.com/Lakshyaraj-Singh-Rao/customer-churn-prediction) | built a customer churn prediction model with scikit-learn and XGboost. | Scikit-learn, XGboost |
 | [**Engineer Salary Prediction**](https://github.com/Lakshyaraj-Singh-Rao/first_linear_regression_model) | Built a linear regression model using scikit-learn — to predict engineer salary outcomes. | NumPy, pandas, scikit-learn |
 | [**Placement Prediction**](https://github.com/Lakshyaraj-Singh-Rao/placement-prediction-ML) | Built a machine learning model for placement prediction without using Scikit-learn | Numpy, Pandas |
-| [**Scikit-Learn Practice**](https://github.com/Lakshyaraj-Singh-Rao/scikit_learning) | Hands-on practice implementing standard ML workflows with scikit-learn. | Scikit-learn |
 
 ---
 
